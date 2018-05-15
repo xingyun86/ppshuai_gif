@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ShowGif - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP50F.tmp" with contents
+[
+..\debug\gifimage.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/ShowGif.pdb" /debug /machine:I386 /out:"Debug/ShowGif.exe" /pdbtype:sept 
+".\Debug\ShowGif.obj"
+".\Debug\ShowGifDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\ShowGif.res"
+"\公司培训PPT\我的工作包\个人技巧积累\GIF生成显示软件-源代码\GifImage\Debug\GifImage.lib"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP50F.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+ShowGif.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
